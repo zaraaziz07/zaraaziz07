@@ -7,7 +7,6 @@
 
 I’m **Zara**, currently pursuing **Data Science** and deeply passionate about learning technology, problem-solving, and understanding how systems work beneath the surface.  
 I believe in building **strong fundamentals**, staying curious, and growing step by step through consistent learning and practice.
-
 <br>
 
 ### 🛠️ Technologies & Tools
@@ -30,18 +29,6 @@ I believe in building **strong fundamentals**, staying curious, and growing step
 - Programming & problem-solving  
 - Databases and web fundamentals  
 - Turning ideas into practical solutions  
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaraaziz07&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake (Professional Theme)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
