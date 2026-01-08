@@ -10,14 +10,14 @@ I believe in building **strong fundamentals**, staying curious, and growing step
 <br>
 
 ### 🛠️ Technologies & Tools
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,mysql&theme=light" />
+</p>
 
 </td>
 
-<td width="40%" align="right">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-
+<td width="40%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </td>
 </tr>
 </table>
@@ -36,11 +36,9 @@ I believe in building **strong fundamentals**, staying curious, and growing step
 
 ---
 
-## ✨ Just for Vibes
-
 <p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="220"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
 </p>
 
 ---
