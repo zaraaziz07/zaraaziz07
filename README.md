@@ -11,18 +11,16 @@ I believe in building **strong fundamentals**, staying curious, and growing step
 
 ### 🛠️ Technologies & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,mysql&theme=light" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,mysql&theme=light" width="50" height="50"/>
 </p>
 
 </td>
 
-<td width="40%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<td width="30%" align="center">
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
 </td>
 </tr>
 </table>
-
----
 
 ## 🧠 Currently Exploring
 - Data Science & analytical thinking  
@@ -34,22 +32,22 @@ I believe in building **strong fundamentals**, staying curious, and growing step
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+<table>
+<tr>
+<td width="15%" align="center">
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="90"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="90"/>
+</td>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
-</p>
-
----
-
+<td width="85%" valign="top">
 ## 🎯 Goals
 - Grow as a Data Scientist  
 - Strengthen programming foundations  
 - Build meaningful and impactful projects  
 - Stay consistent, curious, and disciplined  
-
----
+</td>
+</tr>
+</table>
 
 <p align="center">
   <i>“Learning never exhausts the mind — it fuels it.”</i>
