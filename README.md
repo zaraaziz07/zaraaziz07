@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="60%" valign="top">
 
 <h1>Hi, I'm Zara 👋</h1>
 <h3>Aspiring Data Scientist | Passionate Learner | Tech Enthusiast</h3>
@@ -11,16 +11,18 @@ I believe in building **strong fundamentals**, staying curious, and growing step
 
 ### 🛠️ Technologies & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,mysql&theme=light" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,mysql&theme=light" />
 </p>
 
 </td>
 
-<td width="30%" align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
+<td width="40%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </td>
 </tr>
 </table>
+
+---
 
 ## 🧠 Currently Exploring
 - Data Science & analytical thinking  
@@ -28,32 +30,26 @@ I believe in building **strong fundamentals**, staying curious, and growing step
 - Databases and web fundamentals  
 - Turning ideas into practical solutions  
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
+</p>
 
-<table>
-<tr>
-<td width="15%" align="center">
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="90"/>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="90"/>
-</td>
+---
 
-<td width="85%" valign="top">
 ## 🎯 Goals
 - Grow as a Data Scientist  
 - Strengthen programming foundations  
 - Build meaningful and impactful projects  
 - Stay consistent, curious, and disciplined  
-</td>
-</tr>
-</table>
+
+---
 
 <p align="center">
   <i>“Learning never exhausts the mind — it fuels it.”</i>
