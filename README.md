@@ -1,56 +1,44 @@
-<table>
-<tr>
-<td width="60%" valign="top">
+<h2 align="left">Hi 👋! My name is Zara and I'm a Student from FAST</h2>
 
-<h1>Hi, I'm Zara 👋</h1>
-<h3>Aspiring Data Scientist | Passionate Learner | Tech Enthusiast</h3>
+###
 
-I’m **Zara**, currently pursuing **Data Science** and deeply passionate about learning technology, problem-solving, and understanding how systems work beneath the surface.  
-I believe in building **strong fundamentals**, staying curious, and growing step by step through consistent learning and practice.
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaraaziz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaraaziz&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
+</div>
 
-### 🛠️ Technologies & Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,mysql&theme=light" />
-</p>
+###
 
-</td>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
-<td width="40%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-</td>
-</tr>
-</table>
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html logo" />
+</div>
 
-## 🧠 Currently Exploring
-- Data Science & analytical thinking  
-- Programming & problem-solving  
-- Databases and web fundamentals  
-- Turning ideas into practical solutions  
+###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+</div>
 
----
+###
 
-<p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
-</p>
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-## 🎯 Goals
-- Grow as a Data Scientist  
-- Strengthen programming foundations  
-- Build meaningful and impactful projects  
-- Stay consistent, curious, and disciplined  
-
----
-
-<p align="center">
-  <i>“Learning never exhausts the mind — it fuels it.”</i>
-</p>
+###
