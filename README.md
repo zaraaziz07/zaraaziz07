@@ -1,10 +1,9 @@
-<h2 align="left">Hi 👋! My name is Zara and I'm a Student from FAST</h2>
+<h2 align="left">Hi 👋! My name is Zara and I'm a Student from FAST NU</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaraaziz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaraaziz&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaraaziz&theme=dracula&hide_border=false" height="150" alt="streak graph" />
 </div>
 
 ###
@@ -27,12 +26,11 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+<div align="center">
+  <i>
+    “Strong fundamentals, consistent effort, and patience —  
+    progress is inevitable.”
+  </i>
 </div>
 
 ###
