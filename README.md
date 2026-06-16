@@ -16,9 +16,8 @@
 ###
 
 <div align="center">
-  <h3>
-    “Strong fundamentals, consistent effort, and patience makes
-    progress inevitable.”
+  <h3 style="color:#39FF14;">
+    ✨ Strong fundamentals, consistent effort, and patience makes progress inevitable. ✨
   </h3>
 </div>
 
