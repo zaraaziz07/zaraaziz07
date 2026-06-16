@@ -10,6 +10,8 @@
     <li>🧠 Curious about how systems work and how data solves real world problems</li>
     <li>🚀 Enjoy learning new technologies and improving step by step</li>
     <li>📚 Believe in consistency, patience, and continuous growth</li>
+    <li>📈 Exploring data, patterns, and insights to make informed decisions</li>
+    <li>🔍 Passionate about turning complex problems into simple, effective solutions</li>
   </ul>
 </div>
 
